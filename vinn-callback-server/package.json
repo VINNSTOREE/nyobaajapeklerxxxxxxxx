@@ -1,0 +1,12 @@
+{
+  "name": "vinn-callback-server",
+  "version": "1.0.0",
+  "description": "Callback listener for VioletMediaPay",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
